@@ -1,3 +1,9 @@
+👋 Hi, I’m @abiodunosagie
+👀 I’m interested in flutter application development
+🌱 I’m currently learning advance flutter
+💞️ I’m looking to collaborate on building flutter uis for anyone whos willing to pay. I'm also open to volunteering too.
+📫 How to reach me is easy you can reach me on whatsapp at +2339077601790 or my twitter @smith_osagie3
+
 # climate_app
 
 A new Flutter project.
