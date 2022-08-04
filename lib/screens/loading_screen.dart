@@ -21,7 +21,7 @@ class _LoadingScreenState extends State<LoadingScreen> {
           onPressed: () {
 
           },
-          child: Text('Get Location', style: kButtonLocationStyle,),
+          child: Text('Please, Get Location', style: kButtonLocationStyle,),
         ),
       ),
     );
