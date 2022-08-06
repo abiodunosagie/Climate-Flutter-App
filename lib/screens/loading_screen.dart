@@ -1,7 +1,6 @@
 import 'package:climate_app/utilities/constants.dart';
 import 'package:flutter/material.dart';
 
-
 class LoadingScreen extends StatefulWidget {
   const LoadingScreen({Key? key}) : super(key: key);
 
@@ -18,10 +17,11 @@ class _LoadingScreenState extends State<LoadingScreen> {
           style: TextButton.styleFrom(
             backgroundColor: Colors.blue,
           ),
-          onPressed: () {
-
-          },
-          child: Text('Please, Get Location', style: kButtonLocationStyle,),
+          onPressed: () {},
+          child: const Text(
+            'Get Location',
+            style: kButtonLocationStyle,
+          ),
         ),
       ),
     );
